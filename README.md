@@ -109,7 +109,7 @@ const cyberady = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cyberady&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Cyberady&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies"/>
 
 </div>
 
