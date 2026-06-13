@@ -94,6 +94,7 @@ const cyberady = {
 
 | Project | Description | Stack | Stars |
 |---|---|---|---|
+| 📄 **[AI-Resume-Checker](https://github.com/Cyberady/AIResumeChecker)** | AI-powered Resume Checker with ATS | `JS` `GenAI` `APIs` | ⭐ |
 | 🧠 **[MindMate-Generative-AI](https://github.com/Cyberady/MindMate-Generative-AI)** | AI-powered generative mental wellness companion | `JS` `GenAI` `APIs` | ⭐ |
 | 🏠 **[roomify](https://github.com/Cyberady/roomify)** | Room booking & management web app | `TypeScript` | ⭐ |
 | 🇮🇳 **[indiastack-api](https://github.com/Cyberady/indiastack-api)** | Free Indian IFSC & Pincode lookup API for devs | `HTML` `REST API` | ⭐ |
